@@ -71,6 +71,6 @@ Tenho experiência com testes automatizados, boas práticas de código, CI/CD e 
 <p>
     <a href="https://www.linkedin.com/in/rafael-moraes-13ba5b258"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:rafael1327ff@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/Dev-Rafaael"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://github.com/RafaaelTech"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
