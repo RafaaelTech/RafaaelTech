@@ -53,16 +53,15 @@ Tenho experiência com testes automatizados, boas práticas de código, CI/CD e 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dev-Rafaael&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dev-Rafaael&layout=compact&theme=github_dark"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaaelTech&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaaelTech&layout=compact&theme=github_dark"/>
 </p>
 
 ---
 
 ## 🔥 Gráfico de Atividades Recentes
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Rafaael&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaaelTech&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
